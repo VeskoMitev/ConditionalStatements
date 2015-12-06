@@ -7,7 +7,7 @@
     <ProjectGuid>{E76F07CF-8523-44D9-B784-BBBB500929F2}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Problem_02_BonusScore</RootNamespace>
+    <RootNamespace>ConditionalStatements</RootNamespace>
     <AssemblyName>Problem_02_BonusScore</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
@@ -41,7 +41,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Program.cs" />
+    <Compile Include="BonusScore.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
