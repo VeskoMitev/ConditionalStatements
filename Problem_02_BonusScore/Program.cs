@@ -10,6 +10,7 @@ namespace Problem_02_BonusScore
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
