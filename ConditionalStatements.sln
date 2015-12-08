@@ -19,6 +19,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem_07_Sort_3_NumbersWi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem_08_DigitAsWord", "Problem_08_DigitAsWord\Problem_08_DigitAsWord.csproj", "{BE1AA10F-796C-49F9-937F-5505E7D85CD2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem_09_PlayВithIntDoubleАndString", "Problem_09_PlayВithIntDoubleАndString\Problem_09_PlayВithIntDoubleАndString.csproj", "{856A3F20-EC03-4EFD-A56B-B965C58A8BB5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem_10_BeerTime", "Problem_10_BeerTime\Problem_10_BeerTime.csproj", "{7A69728C-6034-4130-B882-2A0FA532AAAF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +61,14 @@ Global
 		{BE1AA10F-796C-49F9-937F-5505E7D85CD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BE1AA10F-796C-49F9-937F-5505E7D85CD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BE1AA10F-796C-49F9-937F-5505E7D85CD2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{856A3F20-EC03-4EFD-A56B-B965C58A8BB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{856A3F20-EC03-4EFD-A56B-B965C58A8BB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{856A3F20-EC03-4EFD-A56B-B965C58A8BB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{856A3F20-EC03-4EFD-A56B-B965C58A8BB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A69728C-6034-4130-B882-2A0FA532AAAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A69728C-6034-4130-B882-2A0FA532AAAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A69728C-6034-4130-B882-2A0FA532AAAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A69728C-6034-4130-B882-2A0FA532AAAF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
